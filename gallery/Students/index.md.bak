@@ -1,0 +1,27 @@
+---
+title: Students
+type: "gallery"
+top_img: /images/yeah.jpg
+---
+<center>Students</center>
+{% gallery %}
+![dog](/gallery/students/img/dog.GIF)
+![fun](/gallery/students/img/fun.JPG)
+![play_cards](/gallery/students/img/play_cards.jpg)
+
+![ban](/gallery/students/img/banstayuplate.JPG)
+
+![salute](/gallery/students/img/salute.JPG)
+
+![rock](/gallery/students/img/rock.jpg)
+
+![what](/gallery/students/img/what.PNG)
+
+![workhard](/gallery/students/img/workhard.jpg)
+
+![glass](/gallery/students/img/glass.jpg)
+
+{% endgallery %}
+
+
+

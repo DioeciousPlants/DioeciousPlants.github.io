@@ -1,0 +1,16 @@
+---
+title: DioeciousPlants Group Album
+type: "gallery"
+top_img: /images/yeah.jpg
+---
+
+<center><font color='Black' size=20>DioeciousPlants Group Album</font></center>
+
+```
+<div class="gallery-group-main">
+{% galleryGroup 'Doctor' 'Doctor of DioeciousPlants Group' '/doc' /img/doc.jpg' %}
+{% galleryGroup 'Students' 'Students of DioeciousPlants Group' '/students' '/img/emoji.JPG' %}
+{% galleryGroup 'Simple' 'test' '/simple/' '/img/simple.jpg' %}
+</div>
+```
+
